@@ -1,0 +1,163 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="1024" height="1024" fill="#f6f1e5"/>
+
+<!-- ===== HEADER ===== -->
+<rect x="0" y="0" width="1024" height="116" fill="#16233f"/>
+<text x="512" y="60" text-anchor="middle" font-family="Georgia, 'Noto Serif', serif" font-size="56" font-weight="bold" letter-spacing="6" fill="#ffffff">THE WORLD IN ONE DAY</text>
+<text x="512" y="100" text-anchor="middle" font-family="'Noto Sans', sans-serif" font-size="29" font-weight="bold" letter-spacing="9" fill="#e8b64c">TUESDAY &#183; 17 NOVEMBER 2026</text>
+<rect x="0" y="116" width="1024" height="4" fill="#d9a441"/>
+
+<!-- ===== LEAD STORY: KERCH BRIDGE ===== -->
+<rect x="16" y="132" width="992" height="336" fill="#fffdf6" stroke="#c9c2ae" stroke-width="1.5"/>
+<!-- illustration: bridge over water, broken span -->
+<rect x="16" y="132" width="560" height="248" fill="#d7e6f0"/>
+<circle cx="520" cy="180" r="26" fill="#f5d76e"/>
+<ellipse cx="120" cy="180" rx="55" ry="16" fill="#ffffff" opacity="0.85"/>
+<ellipse cx="330" cy="165" rx="45" ry="13" fill="#ffffff" opacity="0.85"/>
+<rect x="16" y="380" width="560" height="88" fill="#2f6da3"/>
+<path d="M16 400 Q 80 392 140 400 T 260 400 T 380 400 T 500 400 T 576 400" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.45"/>
+<path d="M16 430 Q 90 422 160 430 T 300 430 T 440 430 T 576 430" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.35"/>
+<!-- pylons and cables -->
+<rect x="140" y="236" width="14" height="108" fill="#3a3a3a"/>
+<rect x="430" y="236" width="14" height="108" fill="#3a3a3a"/>
+<rect x="134" y="228" width="26" height="10" fill="#3a3a3a"/>
+<rect x="424" y="228" width="26" height="10" fill="#3a3a3a"/>
+<line x1="147" y1="236" x2="40" y2="330" stroke="#666666" stroke-width="2"/>
+<line x1="147" y1="236" x2="272" y2="330" stroke="#666666" stroke-width="2"/>
+<line x1="437" y1="236" x2="338" y2="330" stroke="#666666" stroke-width="2"/>
+<line x1="437" y1="236" x2="560" y2="330" stroke="#666666" stroke-width="2"/>
+<!-- deck: intact left and right, broken middle -->
+<rect x="16" y="330" width="264" height="14" fill="#4d4d4d"/>
+<rect x="330" y="330" width="246" height="14" fill="#4d4d4d"/>
+<polygon points="280,330 330,330 318,362 272,352" fill="#4d4d4d"/>
+<polygon points="285,392 325,398 318,412 280,406" fill="#555555"/>
+<!-- cars on the deck -->
+<rect x="60" y="318" width="20" height="10" fill="#c0392b"/>
+<rect x="200" y="318" width="20" height="10" fill="#2980b9"/>
+<rect x="460" y="318" width="20" height="10" fill="#27ae60"/>
+<!-- explosion and smoke at the break -->
+<polygon points="305,288 312,306 330,306 316,317 321,335 305,324 289,335 294,317 280,306 298,306" fill="#f39c12"/>
+<circle cx="288" cy="282" r="17" fill="#8a8a8a" opacity="0.85"/>
+<circle cx="316" cy="268" r="21" fill="#9a9a9a" opacity="0.85"/>
+<circle cx="338" cy="288" r="15" fill="#7a7a7a" opacity="0.85"/>
+<!-- lead text -->
+<text x="596" y="180" font-family="'Noto Sans', sans-serif" font-size="22" font-weight="bold" letter-spacing="2" fill="#b3261e">UKRAINE WAR</text>
+<text x="596" y="228" font-family="Georgia, 'Noto Serif', serif" font-size="40" font-weight="bold" fill="#1a1a1a">Kerch Bridge span</text>
+<text x="596" y="274" font-family="Georgia, 'Noto Serif', serif" font-size="40" font-weight="bold" fill="#1a1a1a">collapses after</text>
+<text x="596" y="320" font-family="Georgia, 'Noto Serif', serif" font-size="40" font-weight="bold" fill="#1a1a1a">Ukrainian strike</text>
+<text x="596" y="356" font-family="'Noto Sans', sans-serif" font-size="20" fill="#444444">Kyiv calls the strike an</text>
+<text x="596" y="382" font-family="'Noto Sans', sans-serif" font-size="20" fill="#444444">&#8220;unprecedented operation&#8221;.</text>
+<text x="596" y="408" font-family="'Noto Sans', sans-serif" font-size="20" fill="#444444">Hours earlier, Russian missiles hit</text>
+<text x="596" y="434" font-family="'Noto Sans', sans-serif" font-size="20" fill="#444444">Kyiv&#8217;s bridges, cutting water and heat.</text>
+
+<!-- ===== PANEL 1: BAHRAIN DRONES ===== -->
+<rect x="16" y="484" width="488" height="236" fill="#fffdf6" stroke="#c9c2ae" stroke-width="1.5"/>
+<rect x="16" y="484" width="200" height="236" fill="#f0c078"/>
+<circle cx="178" cy="512" r="19" fill="#e07b39"/>
+<rect x="16" y="660" width="200" height="60" fill="#7d6a4f"/>
+<rect x="58" y="638" width="114" height="22" fill="#dddddd"/>
+<path d="M 71 638 A 44 44 0 0 1 159 638 Z" fill="#f2f2f2" stroke="#999999" stroke-width="2"/>
+<rect x="112" y="590" width="6" height="8" fill="#999999"/>
+<!-- drones -->
+<g fill="#2c2c2c"><rect x="44" y="556" width="18" height="7"/><circle cx="42" cy="559" r="4.5"/><circle cx="64" cy="559" r="4.5"/></g>
+<g fill="#2c2c2c"><rect x="128" y="528" width="18" height="7"/><circle cx="126" cy="531" r="4.5"/><circle cx="148" cy="531" r="4.5"/></g>
+<polygon points="152,566 159,584 178,584 165,596 170,614 152,603 134,614 139,596 126,584 145,584" fill="#ff7b00"/>
+<circle cx="152" cy="590" r="8" fill="#ffd23f"/>
+<text x="232" y="518" font-family="'Noto Sans', sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3261e">MIDDLE EAST</text>
+<text x="232" y="550" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">Iran fires drones at</text>
+<text x="232" y="578" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">U.S. radar base</text>
+<text x="232" y="606" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">in Bahrain</text>
+<text x="232" y="644" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">Bahrain: intercepted, no</text>
+<text x="232" y="666" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">casualties. A third U.S.</text>
+<text x="232" y="688" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">carrier has reached the Gulf.</text>
+
+<!-- ===== PANEL 2: MANILA / SHENZHEN ===== -->
+<rect x="520" y="484" width="488" height="236" fill="#fffdf6" stroke="#c9c2ae" stroke-width="1.5"/>
+<rect x="520" y="484" width="200" height="236" fill="#bcd8ee"/>
+<ellipse cx="580" cy="520" rx="40" ry="12" fill="#ffffff" opacity="0.9"/>
+<ellipse cx="660" cy="545" rx="34" ry="10" fill="#ffffff" opacity="0.9"/>
+<!-- plane silhouette: side-view airliner -->
+<rect x="550" y="586" width="120" height="14" rx="7" fill="#3a4a5a"/>
+<polygon points="670,586 692,591 692,597 670,600" fill="#3a4a5a"/>
+<polygon points="552,586 560,562 572,586" fill="#3a4a5a"/>
+<polygon points="605,600 632,636 644,636 624,600" fill="#2e3d4c"/>
+<polygon points="556,600 568,614 576,600" fill="#2e3d4c"/>
+<circle cx="578" cy="593" r="2" fill="#dfe9f2"/><circle cx="596" cy="593" r="2" fill="#dfe9f2"/><circle cx="614" cy="593" r="2" fill="#dfe9f2"/><circle cx="632" cy="593" r="2" fill="#dfe9f2"/>
+<!-- three flags -->
+<g><line x1="556" y1="640" x2="556" y2="700" stroke="#555555" stroke-width="3"/><rect x="556" y="640" width="46" height="30" fill="#ffffff" stroke="#999999" stroke-width="1"/><g fill="#b22234"><rect x="556" y="640" width="46" height="4"/><rect x="556" y="648" width="46" height="4"/><rect x="556" y="656" width="46" height="4"/><rect x="556" y="664" width="46" height="4"/></g><rect x="556" y="640" width="20" height="16" fill="#3c3b6e"/></g>
+<g><line x1="618" y1="640" x2="618" y2="700" stroke="#555555" stroke-width="3"/><rect x="618" y="640" width="46" height="30" fill="#de2910"/><circle cx="628" cy="650" r="5" fill="#ffde00"/><circle cx="644" cy="646" r="2.5" fill="#ffde00"/><circle cx="650" cy="654" r="2.5" fill="#ffde00"/><circle cx="644" cy="662" r="2.5" fill="#ffde00"/></g>
+<g><line x1="680" y1="640" x2="680" y2="700" stroke="#555555" stroke-width="3"/><rect x="680" y="640" width="46" height="10" fill="#ffffff" stroke="#999999" stroke-width="1"/><rect x="680" y="650" width="46" height="10" fill="#0039a6"/><rect x="680" y="660" width="46" height="10" fill="#d52b1e"/></g>
+<rect x="520" y="700" width="200" height="20" fill="#7a9a6d"/>
+<text x="736" y="518" font-family="'Noto Sans', sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3261e">ASIA DIPLOMACY</text>
+<text x="736" y="550" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">Trump in Manila;</text>
+<text x="736" y="578" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">Xi&#8211;Trump&#8211;Putin to</text>
+<text x="736" y="606" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">meet Thursday</text>
+<text x="736" y="644" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">Three-way talks set for</text>
+<text x="736" y="666" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">Thursday in Shenzhen, on</text>
+<text x="736" y="688" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">the APEC sidelines.</text>
+
+<!-- ===== PANEL 3: JAPAN JETS ===== -->
+<rect x="16" y="736" width="488" height="236" fill="#fffdf6" stroke="#c9c2ae" stroke-width="1.5"/>
+<rect x="16" y="736" width="200" height="236" fill="#dfe7ee"/>
+<!-- radar arcs -->
+<path d="M 36 897 A 55 55 0 0 1 91 952" stroke="#8fa3b8" stroke-width="2" fill="none" opacity="0.7"/>
+<path d="M 36 867 A 85 85 0 0 1 121 952" stroke="#8fa3b8" stroke-width="2" fill="none" opacity="0.55"/>
+<path d="M 36 842 A 110 110 0 0 1 146 952" stroke="#8fa3b8" stroke-width="2" fill="none" opacity="0.4"/>
+<!-- radar antenna -->
+<circle cx="36" cy="952" r="5" fill="#5b6670"/>
+<line x1="36" y1="952" x2="86" y2="902" stroke="#5b6670" stroke-width="3"/>
+<!-- fighter jet 1 (large, upper) -->
+<g fill="#3a4a5a">
+<polygon points="70,800 120,800 192,806 185,812 150,812 135,812 70,812"/>
+<polygon points="150,800 165,792 175,800"/>
+<polygon points="120,812 95,848 108,848 135,812"/>
+<polygon points="70,800 78,778 90,800"/>
+<polygon points="75,812 60,830 70,830 85,812"/>
+</g>
+<!-- fighter jet 2 (smaller, lower, afterburner lit) -->
+<g fill="#2e3d4c">
+<polygon points="105,881 140,881 196,886 190,891 150,891 105,891"/>
+<polygon points="160,881 170,875 178,881"/>
+<polygon points="140,891 122,918 132,918 150,891"/>
+<polygon points="105,881 111,864 120,881"/>
+</g>
+<polygon points="105,884 86,887 105,890" fill="#ff7b00"/>
+<!-- Japanese flag -->
+<line x1="196" y1="900" x2="196" y2="950" stroke="#555555" stroke-width="3"/>
+<rect x="150" y="900" width="46" height="30" fill="#ffffff" stroke="#999999" stroke-width="1"/>
+<circle cx="173" cy="915" r="8" fill="#bc002d"/>
+<text x="232" y="770" font-family="'Noto Sans', sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3261e">ASIA SECURITY</text>
+<text x="232" y="802" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">Japan scrambles jets</text>
+<text x="232" y="830" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">as Russian planes</text>
+<text x="232" y="858" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">breach airspace</text>
+<text x="232" y="888" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">Two suspected Russian planes</text>
+<text x="232" y="910" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">entered Japanese airspace;</text>
+<text x="232" y="932" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">jets scrambled; Tokyo protests</text>
+<text x="232" y="954" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">&#8212; first breach since 2024.</text>
+
+<!-- ===== PANEL 4: MONGOLIA RESIGNS ===== -->
+<rect x="520" y="736" width="488" height="236" fill="#fffdf6" stroke="#c9c2ae" stroke-width="1.5"/>
+<rect x="520" y="736" width="200" height="236" fill="#e9e2d2"/>
+<!-- Mongolian flag -->
+<rect x="560" y="780" width="40" height="76" fill="#c4272f"/>
+<rect x="600" y="780" width="40" height="76" fill="#015197"/>
+<rect x="640" y="780" width="40" height="76" fill="#c4272f"/>
+<circle cx="580" cy="808" r="9" fill="#f7c948"/>
+<polygon points="580,786 588,800 572,800" fill="#f7c948"/>
+<rect x="576" y="822" width="8" height="14" fill="#f7c948"/>
+<!-- podium and microphone -->
+<polygon points="585,880 655,880 665,930 575,930" fill="#6b4a2f"/>
+<rect x="575" y="930" width="90" height="6" fill="#54371f"/>
+<line x1="620" y1="880" x2="620" y2="866" stroke="#333333" stroke-width="3"/>
+<circle cx="620" cy="862" r="8" fill="#333333"/>
+<text x="736" y="770" font-family="'Noto Sans', sans-serif" font-size="16" font-weight="bold" letter-spacing="1" fill="#b3261e">ASIA POLITICS</text>
+<text x="736" y="802" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">Mongolia&#8217;s president</text>
+<text x="736" y="830" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">says he will</text>
+<text x="736" y="858" font-family="Georgia, 'Noto Serif', serif" font-size="24" font-weight="bold" fill="#1a1a1a">resign</text>
+<text x="736" y="896" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">Khurelsukh denies</text>
+<text x="736" y="918" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">wrongdoing over a railway</text>
+<text x="736" y="940" font-family="'Noto Sans', sans-serif" font-size="17" fill="#555555">deal; vows to cooperate.</text>
+
+<!-- ===== FOOTER ===== -->
+<text x="512" y="1002" text-anchor="middle" font-family="'Noto Sans', sans-serif" font-size="17" fill="#777777">Reported 17 November 2026 &#183; Sources: BBC, Reuters, AP, Al Jazeera, AFP, CNN</text>
+</svg>
